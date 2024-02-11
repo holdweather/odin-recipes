@@ -1,0 +1,1 @@
+This is the repo for the Project "Recipes" from The Odin Project website
